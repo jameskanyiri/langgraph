@@ -1,0 +1,12 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "company_research_agent": "src/company_research_agent/graph.py:graph"
+     
+    },
+    "python_version": "3.12",
+    "env": "./.env",
+    "dependencies": [
+      "."
+    ]
+  }

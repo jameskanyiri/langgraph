@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+.venv
+
+
+
+
+# API credentials or sensitive configurations
+.langgraph_api
+
+# Python cache
+__pycache__/
+
